@@ -1,6 +1,3 @@
-php -V
-
-phpmyadmin
 
 #/etc/nginx/sites-available/pma.conf
 server {
